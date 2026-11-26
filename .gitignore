@@ -1,0 +1,19 @@
+# Virtual environments & Python caches
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Assignment handout
+*.docx
